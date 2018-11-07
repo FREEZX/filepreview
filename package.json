@@ -26,7 +26,5 @@
     "url": "https://github.com/maxlabelle/filepreview/issues"
   },
   "homepage": "https://github.com/maxlabelle/filepreview#readme",
-  "dependencies": {
-    "synchronize": "^2.0.0"
-  }
+  "dependencies": {}
 }
