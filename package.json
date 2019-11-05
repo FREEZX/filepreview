@@ -1,5 +1,5 @@
 {
-  "name": "filepreview",
+  "name": "filepreview-aspect",
   "version": "1.0.14",
   "description": "A file preview generator for node.js",
   "main": "filepreview.js",
